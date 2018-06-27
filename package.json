@@ -8,8 +8,5 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "keypress": "^0.2.1"
-  }
+  "license": "ISC"
 }
